@@ -8,7 +8,7 @@ __Aratrik Pal__
 
 __April 12, 2021__
 
-<button class="button button1"><a href="{{site.url}}/Geography/Chapter2.pdf">Download as PDF</a></button>
+<button class="button button1"><a href="{{site.url}}Notes/Geography/Chapter2.pdf">Download as PDF</a></button>
 
 ## Divisions
 
@@ -52,7 +52,7 @@ __April 12, 2021__
 
 ## Lava
 
-![Lava]({{site.url}}/assets/images/lava.png)
+![Lava]({{site.url}}Notes/assets/images/lava.png)
 
 -   Lava: Molten rock that has reached the surface
 -   Magma: Molten rock stored in the Earth\'s crust
