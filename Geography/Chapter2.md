@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h1>Chapter 2: Inside the Restless Earth
+<h1>Chapter 2: Inside the Restless Earth</h1>
 
 __Aratrik Pal__
 
