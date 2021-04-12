@@ -2,7 +2,7 @@
 title:               My Notes
 description:         "Aratrik Pal's Notes"
   #url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             'https://ap2008.github.io/Notes'
 paginate:            5
 permalink:           pretty
 
