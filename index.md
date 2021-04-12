@@ -4,4 +4,4 @@ title: Home
 ---
 
 # My Notes
-## Geography: [Geography]({{site.url}}/Geography "Geography")
+## Geography: [Geography](/Notes/Geography "Geography")
