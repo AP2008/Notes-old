@@ -2,11 +2,13 @@
 layout: page
 ---
 
+<h1>Chapter 2: Inside the Restless Earth
+
 __Aratrik Pal__
 
 __April 12, 2021__
 
-<button class="button button1"><a href="/Notes/Geography/Chapter2.pdf">Download as PDF</a></button>
+<a href="/Notes/Geography/Chapter2.pdf"><button class="button button1">Download as PDF</button></a>
 
 ## Divisions
 
