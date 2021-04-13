@@ -2,8 +2,11 @@
 author: Aratrik Pal
 namet: "Chapter 2: Nutrition in Animals"
 date: April 12, 2021
+title:
 layout: page
 ---
+
+<h1></h1>
 
 ### Steps in nutrition
 - Ingestion: Intake of food
