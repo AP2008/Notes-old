@@ -8,61 +8,61 @@ layout: page
 
 <h1></h1>
 
-### Steps in nutrition
+## Steps in nutrition
 - Ingestion: Intake of food
 - Digestion: Complex -> Simple
 - Absorption: Absorb energy
 - Assimilation: Simple -> Complex
 - Egestion: Elimination of waste
 
-### Digestion in humans
+## Digestion in humans
 - Food passes through specific canal (elementary canal/ digestive tract)
 - Digestive system = elementary canal + Digestive glands
 - Parts of elementary canal (first 7) and digestive glands (last 3):
 
-#### Mouth & Buccal Cavity
+### Mouth & Buccal Cavity
 - Process of taking food: ingestion
 - Large pieces of food broken down
 - Food mixes with saliva : secreted from salivary glands
 - Tongue: taste of food by taste buds
 
-#### Esophagus
+### Esophagus
 - Epigloatus directs the food into esophagus
 
-#### Stomach
+### Stomach
 - Widest part
 - Churned and mixed with mucus (HCL acid & digestive juices)
 - Acid kills bacteria
 - Juices break down proteins
 - Emptied into small intestine
 
-#### Small intestine
+### Small intestine
 - 7.5m long
 - Digestive juices mixed
 - Inner wall has finger-like projections:
     * Increase surface area of food
 
-#### Large intestine
+### Large intestine
 
 
-#### Rectum
+### Rectum
 
 
-#### Anus
+### Anus
 
 
-#### Salivary glands
+### Salivary glands
 - Secretes saliva
 
-#### Liver
+### Liver
 - Largest gland
 - Secretes bile 
 
-#### Pancreas
+### Pancreas
 - Secretes pancreatic juice
 - Breaks down carbs, prots., fats
 
-### Digestion in Cow
+## Digestion in Cow
 - Special stomach with 4 chambers:
     * Rumen (largest part)
     * Reticulum
