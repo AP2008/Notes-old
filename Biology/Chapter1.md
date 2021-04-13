@@ -2,8 +2,11 @@
 namet: "Chapter 1: Nutrition in Plants"
 author: Aratrik Pal
 date: April 9, 2021
+title:
 layout: page
 ---
+
+<h1></h1>
 
 ## Autotrophic:
 
