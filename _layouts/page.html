@@ -3,6 +3,17 @@ layout: default
 ---
 
 <div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.title != null %}
+    <h1 class="page-title">{{ page.title }}</h1>
+  {% else %}
+    <h1>{{page.namet}}</h1>
+    <a href="/Notes{{page.url}}/{{page.name}}.pdf"><button class="button button1">Download as PDF</button></a>
+    <br>
+    <b>{{page.author}}</b>
+    <br>
+    <b>{{page.date}}</b>
+  {% endif %}
+
+
   {{ content }}
 </div>

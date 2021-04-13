@@ -1,14 +1,11 @@
 ---
+namet: "Chapter 2: Inside the Restless Earth"
+author: Aratrik Pal
+date: April 12, 2021
 layout: page
 ---
 
-<h1>Chapter 2: Inside the Restless Earth</h1>
 
-__Aratrik Pal__
-
-__April 12, 2021__
-
-<a href="/Notes/Geography/Chapter2.pdf"><button class="button button1">Download as PDF</button></a>
 
 ## Divisions
 
@@ -52,7 +49,7 @@ __April 12, 2021__
 
 ## Lava
 
-![Lava](/Notes/assets/images/lava.png)
+![Lava](../images/lava.png)
 
 -   Lava: Molten rock that has reached the surface
 -   Magma: Molten rock stored in the Earth\'s crust
