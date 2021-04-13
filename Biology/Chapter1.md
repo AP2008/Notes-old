@@ -8,12 +8,12 @@ layout: page
 
 <h1></h1>
 
-## Autotrophic:
+## Autotrophic
 
 - Make own food
 - Green leaves b.c. Chlorophyll
 
-## Heterotrophic:
+## Heterotrophic
 
 ### Parisitic
 - Food from other  organism
@@ -21,16 +21,19 @@ layout: page
     * Cuscuta
     * Rafflesia
     * Corpse Flower
+
 ### Saprophitic
 - Food from dead or decaying subst.
 - E.g.:
     * Mushroom
     * Bread mould
+
 ### Symbiotic
 - Share shelter and food
 - E.g.:
     * Rhizobium bacteria & leguminous plants
     * Algae & Fungi => Lichen
+
 ### Insectivorous
 - Eat insects
 - Colourful
