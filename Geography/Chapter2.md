@@ -2,9 +2,10 @@
 namet: "Chapter 2: Inside the Restless Earth"
 author: Aratrik Pal
 date: April 12, 2021
+title:
 layout: page
 ---
-
+<h1></h1>
 
 
 ## Divisions
