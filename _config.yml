@@ -24,4 +24,5 @@ markdown: Pandoc
 algolia:
   application_id: 'IBCSC9FLK2'
   index_name: jekyll
+  vars: ["title", "excerpt", "date", "url", "categories", "tags"]
 exclude: [vendor]
