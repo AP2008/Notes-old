@@ -10,3 +10,6 @@ branches:
     - master
 rvm:
  - 2.4
+addons:
+  apt_packages:
+    - pandoc
