@@ -4,6 +4,7 @@ namet: "Chapter 2: Nutrition in Animals"
 date: April 12, 2021
 title:
 layout: page
+search: true
 ---
 
 <h1></h1>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+search: true
 ---
 
 <p class="message">

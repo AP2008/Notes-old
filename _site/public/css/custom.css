@@ -9,3 +9,13 @@
       width: 160px;
       margin: 0 auto;
 }
+
+input {
+      background-color: rgb(59,59,59);
+      padding: 11px;
+      color: white;
+}
+
+#results-container {
+      padding: 10px;
+}

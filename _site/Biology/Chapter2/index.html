@@ -31,6 +31,8 @@
   
 </head>
 
+<script src="https://unpkg.com/simple-jekyll-search@1.5.0/dest/simple-jekyll-search.min.js"></script>
+
   <link rel="stylesheet" href="/Notes/assets/css/main.css" />
 
   <body>
@@ -49,7 +51,22 @@
     <p>Aratrik Pal's Notes</p>
   </div>
 
+
   <nav class="sidebar-nav">
+  <input type="text" id="search-input" placeholder="search posts..">
+<br/>
+<div id="results-container"></div>
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: 'http://127.0.0.1:4000/Notes/search.json',
+  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+  noResultsText: 'No results found',
+  limit: 10,
+  fuzzy: false
+})
+</script>
     <a class="sidebar-nav-item" href="/Notes/">Home</a>
 
     
@@ -86,6 +103,8 @@
         
           <a class="sidebar-nav-item" href="/Notes/about/">About</a>
         
+      
+    
       
     
       
@@ -216,6 +235,8 @@
 <li>Caecum (sac-like) contains bacteria, breaks down cellulose</li>
 <li>Goes into large intestine</li>
 </ol>
+
+
 
 </div>
 

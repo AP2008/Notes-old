@@ -4,6 +4,7 @@ author: Aratrik Pal
 date: April 12, 2021
 title:
 layout: page
+search: true
 ---
 <h1></h1>
 

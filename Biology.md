@@ -1,7 +1,7 @@
 ---
 title: Biology Notes
 layout: page
-comments: true
+search: true
 ---
 
 * [Chapter 1: Nutrition in Plants](/Notes/Biology/Chapter1)
