@@ -23,4 +23,5 @@ google_analytics_id: #UA-XXXX-Y
 markdown: Pandoc
 algolia:
   application_id: 'IBCSC9FLK2'
+  index_name: jekyll
 exclude: [vendor]
