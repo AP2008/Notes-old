@@ -26,3 +26,10 @@ exclude: [vendor, node_modules]
 pandoc:
   extensions:
     - mathjax
+username:             AP2008
+repo:                 AP2008.github.io/Notes
+branch:               source
+
+# Jekyll source / destination
+source:               .
+destination:          _site
