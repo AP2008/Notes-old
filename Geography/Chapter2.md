@@ -28,7 +28,7 @@ search: true
 - Constant movement
 - Upper aka Asthenosphere
 - Temp.:
-    *   Lower: 2800 C
+    *    Lower: 2800 C
     *   Upper: 1800 C
 - Consists of:
     * iron
@@ -112,6 +112,25 @@ search: true
     * Mudstone
 
 ### Metamorphic Rocks
-- .
+- Compression of igneous & sedimentary under layers of soil
+- E.g.: Slate, Schist, Quartzite, Marble, Gneiss
+- Heat & pressure on Sedimentary / Igneous
+- Limestone -> Marble
+- Granite -> Gneiss
+- Heat from magma & pressure from rocks above
+- Shale -> Slate
+- Sandstone -> Quartzite
+- Slate & Quartzite used in flooring and house bases
+- Metamorphosis = Process
+- Classified into 2 types:
+    * Low grade
+    * High grade
+
+## Rock  Cycle
+- (Igneous -> Sediment) -> Metamorphic  =  Rock Cycle
+- Igneous               -> Sediment     =  Weathering
+- Igneous, Sediment     -> Metamorphic  =  Heat & pressure
+- Metamorphic           -> Igneous      = Melting
+- Metamorphic           -> Sediment     = Weathering, Erosion
 
 [//]: # (Compile using: pandoc -c https://bootswatch.com/4/sketchy/bootstrap.min.css -s Chapter2.md -o n.pdf --pdf-engine wkhtmltopdf.exe)
