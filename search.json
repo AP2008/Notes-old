@@ -10,13 +10,13 @@
  ,
   
   
-        {
-            "title"     : " ",
-            "content"   : " ",
-            "url"       : " ",
-            "category": ""
-        }
- ,
+   {
+        "title"    : " Biology Notes ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Biology/",
+        "date"     : ""
+   }    ,
   
   
    {
@@ -50,8 +50,17 @@
         "title"    : " Chapter 3: Fiber to Fabric ",
         "category" : "",
         "tags"     : "",
-        "url"      : "/Notes/Biology/Chapter3/",
+        "url"      : "/Notes/Chemistry/Chapter3/",
         "date"     : "April 15, 2021"
+   }    ,
+  
+  
+   {
+        "title"    : " Chemistry Notes ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Chemistry/",
+        "date"     : ""
    }    ,
   
   
