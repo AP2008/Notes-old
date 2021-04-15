@@ -25,9 +25,6 @@ end
 # Project: master -> gh-pages
 # Name of source branch for user/organization defaults to "source"
 
-SOURCE_BRANCH = CONFIG['branch'] || "source"
-DESTINATION_BRANCH = "master"
-
 #############################################################################
 #
 # Helper functions
