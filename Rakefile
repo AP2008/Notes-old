@@ -88,7 +88,7 @@ end
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone https://github.com/AP2008/Notes.git #{CONFIG["destination"]}"
+    sh "git clone https://AP2008:#{ENV['GH_TOKEN']}@github.com/AP2008/Notes.git #{CONFIG["destination"]}"
   end
 end
 
