@@ -34,6 +34,4 @@ gem "webrick", "~> 1.7"
 
 gem "jekyll-paginate", "~> 1.1"
 gem "jekyll"
-gem "json"
-gem "hash-joiner"
 gem "rake"
