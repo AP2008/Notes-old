@@ -10,8 +10,8 @@ branches:
 rvm:
  - 2.4
 
-install:
-- bundle install
+#install:
+#- bundle install
 
 addons:
   apt_packages:
