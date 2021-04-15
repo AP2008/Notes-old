@@ -1,0 +1,22 @@
+language: ruby
+cache: bundler
+before_install:
+  - gem install bundler
+script: bundle exec rake site:deploy --quiet
+branches:
+  only:
+    # Change this to gh-pages if you're deploying using the gh-pages branch
+    - master
+rvm:
+ - 2.4
+
+install:
+- bundle install
+
+addons:
+  apt_packages:
+    - pandoc
+
+env:
+  global:
+    secure: "VmaBSSD4EDuxZnUHtckC2KDu8Adp1qukF9W78mwlBq0oPFHrrsCMI87opFD1/7pmMXlFo/Q55NyxAttLw0BO+hfYpPl9p5+zNsmznUdF9IfmxPaYWXJ931AkW59/U3QvlCw/sgl3xlANN+sEMbHWzkifoS2z9Od2X0nGTjL0Tgk+AivqY1WOWVxWxLBQaSHjmszOFBJua0eyQyjgv5a1X2k4JPPaizp1GGdHHs3vSNi0QLTmIzIjJDYzgr6R2RPTbr7IDu3Ws+HD6QB8XlTWoIakLeOD6InDttlm9szn4AVkA8llH7K9qOwAFnICdu5Bl32ioFh8/AufLHubjobd3hflNfCBhaEUaOWMjiRNmhiVw8JbHds7AxFVfIuuUirMssXopBI0mSd2jQeWnBl6mcJtHWJiel2iaWNMnwmex0ctWiw5y1v3VSklxZ7iKyEwR5hPtq/SjB+WRV0PLPY4N36WuOWAUv5EV6AMewOMY0Ly2irltRsyzpmtbtwDSXuNPtqROw6sCwWFDoqwhNQPIQWIN+nvgV2D+GIN1H61a3DXfj63p2SI0pd+MGTuFS/eUc7MKod41gfhuzkTrCC6LeuQY6dzrXvzZvCsXOXH1jrgSXfioxVFIumzB7m9sfnzXvxHOJ2Zf/5PEeT9wvfw5ZhNZItfaYNZAUsBlybKV9A="
