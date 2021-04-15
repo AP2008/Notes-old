@@ -5,7 +5,7 @@ args = sys.argv[1:]
 subj = args[0]
 
 f = open(f"{subj}.md", "w+")
-f.write(f"---\ntitle: {subj} Notes\nlayout: page\n---\n\n")
+f.write(f"---\ntitle: {subj} Notes\nlayout: page\nsearch: true\n---\n\n")
 
 os.chdir(subj)
 k = os.listdir()
