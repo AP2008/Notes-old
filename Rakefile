@@ -209,6 +209,8 @@ namespace :site do
 
     sh "git checkout #{SOURCE_BRANCH}"
     Dir.chdir(CONFIG["destination"]) { sh "git checkout #{DESTINATION_BRANCH}" }
+    sh "pwd"
+    sh "ls"
 
     # Generate the site
     sh "bundle exec jekyll build"
