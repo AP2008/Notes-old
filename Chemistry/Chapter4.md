@@ -1,4 +1,3 @@
-
 ---
 author: Aratrik Pal
 namet: "Chapter 4: Chemicals and Chemical changes"
