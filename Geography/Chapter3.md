@@ -39,3 +39,35 @@ search: true
     * Ice
 - E.g.:
     * Rivers erode mountains to form valleys, plains & plateaus
+
+## Plate Tectonics
+- Alfred Wegener proposed "Theory of Continental Drift" 1912
+    * Believed that 225 mil yrs ago, 1 supercontinent - Pangea surround by single ocean called -----------
+    * 150 mil yrs ago - Laurasia(North) & Gondwana(South)
+    * 100 mil yrs ago - NA & SA & Africa & Europe & Asia & Australia & Antarctica & India
+    * Plates move at 10cm/yr
+- Plate tectonics
+    * Between lithosphere and aesthenosphere
+    * theory explains how continental plates move continuously - along, against, away
+    * Continents sit on these plates
+- Types of plate movements
+    * Divergent: Moving away
+    * Convergent: Moving close
+    * Transform / Lateral Slipping
+
+### Divergent movement
+- 2 plates move away
+- A gap opens up between the plates and magma from below seeps through to form new crust
+- Forms rift valley
+
+### Convergent movements
+- 2 plates come close 2 each other
+- Creates fold mountain
+- Pushes up
+
+### Lateral Slipping Plate Movement
+- 2 plates move sideways against each other
+- Tremendous amount of friction is generated
+- The plates slip and stick as the friction and pressure build up
+- When the pressure is release, the plates jerk apart
+- Causes earthquake

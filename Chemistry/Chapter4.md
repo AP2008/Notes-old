@@ -55,3 +55,26 @@ search: true
 |                High density               |                 Low density                |
 |           High melting & boiling          |            Low melting & boiling           |
 | Combine with oxygen and form basic oxides | Combine with oxygen abd form acidic oxides |
+
+## Atoms, compounds, molecules, elements
+
+### Atoms
+- Matter = n x atoms
+
+### Molecules
+- Atoms combine to form molecules
+- Classified as Elements & Compunds
+- 1 O molecule = 2 O atoms
+- 1 H2O molecule = 2H + O
+- 1 Carbon molecule = 2 C
+- 1 Carbon Dioxide = 1 C + 2 O
+
+### Elements
+- Molecules made up of same atoms
+
+### Compounds
+- Molecules made up of more than 1 type of atoms
+
+### Metallic oxides
+- Oxygen compounds with metals
+-
