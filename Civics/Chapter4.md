@@ -1,4 +1,12 @@
-# Functioning of the State Government
+---
+namet: "Chapter 4: Functioning of the State Government"
+author: Aratrik Pal
+date: April 27, 2021
+title:
+layout: page
+search: true
+---
+<h1></h1>
 
 ## State list
 - State govt. makes laws on subjs. mentioned in state list
