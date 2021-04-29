@@ -29,6 +29,15 @@
   
   
    {
+        "title"    : " Chapter 2: Institutional representation of democracy ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Civics/Chapter2/",
+        "date"     : "April 26, 2021"
+   }    ,
+  
+  
+   {
         "title"    : " Chapter 2: Inside the Restless Earth ",
         "category" : "",
         "tags"     : "",
@@ -42,6 +51,15 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/Notes/Biology/Chapter2/",
+        "date"     : "April 12, 2021"
+   }    ,
+  
+  
+   {
+        "title"    : " Chapter 3: State Government ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Civics/Chapter3/",
         "date"     : "April 12, 2021"
    }    ,
   
@@ -74,6 +92,15 @@
   
   
    {
+        "title"    : " Chapter 6: Temperature and Heat ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Physics/Chapter6/",
+        "date"     : "April 27, 2021"
+   }    ,
+  
+  
+   {
         "title"    : " Chemistry Notes ",
         "category" : "",
         "tags"     : "",
@@ -83,10 +110,28 @@
   
   
    {
+        "title"    : " Civics Notes ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Civics/",
+        "date"     : ""
+   }    ,
+  
+  
+   {
         "title"    : " Geography Notes ",
         "category" : "",
         "tags"     : "",
         "url"      : "/Notes/Geography/",
+        "date"     : ""
+   }    ,
+  
+  
+   {
+        "title"    : " Physics Notes ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Physics/",
         "date"     : ""
    }    ,
   
