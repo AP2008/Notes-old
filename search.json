@@ -29,6 +29,24 @@
   
   
    {
+        "title"    : " Chapter 13: Electric Current and Its Effects ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/Physics/Chapter13/",
+        "date"     : "April 29, 2021"
+   }    ,
+  
+  
+   {
+        "title"    : " Chapter 2: New Rules and Rulers ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/History/Chapter2/",
+        "date"     : "April 29, 2021"
+   }    ,
+  
+  
+   {
         "title"    : " Chapter 2: Institutional representation of democracy ",
         "category" : "",
         "tags"     : "",
@@ -52,6 +70,15 @@
         "tags"     : "",
         "url"      : "/Notes/Biology/Chapter2/",
         "date"     : "April 12, 2021"
+   }    ,
+  
+  
+   {
+        "title"    : " Chapter 3: Sultans of Delhi ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/History/Chapter3/",
+        "date"     : "April 30, 2021"
    }    ,
   
   
@@ -101,6 +128,15 @@
   
   
    {
+        "title"    : " Chapter 5: The Mughal Empire ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/History/Chapter5/",
+        "date"     : "May 4, 2021"
+   }    ,
+  
+  
+   {
         "title"    : " Chapter 6: Temperature and Heat ",
         "category" : "",
         "tags"     : "",
@@ -132,6 +168,15 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/Notes/Geography/",
+        "date"     : ""
+   }    ,
+  
+  
+   {
+        "title"    : " History Notes ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/History/",
         "date"     : ""
    }    ,
   
@@ -178,7 +223,16 @@
             "url"       : " ",
             "category": ""
         }
- 
+ ,
+  
+  
+   {
+        "title"    : " Chapter 3: Sultans of Delhi ",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/Notes/History/t",
+        "date"     : "April 30, 2021"
+   }    
   
 
 ]
