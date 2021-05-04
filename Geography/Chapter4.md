@@ -1,3 +1,13 @@
+---
+namet: "Chapter 4: Weathering and Erosion"
+author: Aratrik Pal
+date: April 18, 2021
+title:
+layout: page
+search: true
+---
+<h1></h1>
+
 ## Weathering
 - Breaking up of rocks
 - 2 Types:
