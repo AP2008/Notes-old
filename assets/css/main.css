@@ -8,6 +8,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   letter-spacing: -.025rem;
 }
+
+figcaption {
+  /*padding-left: 50%;*/
+}
+
 .button {
   border: none;
   color: white;
@@ -32,3 +37,5 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #4CAF50;
   color: white;
 }
+
+
